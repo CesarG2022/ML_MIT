@@ -1,0 +1,2 @@
+para crear el ambiente con conda ejecutar en el anaconda prompt: 
+$conda env create -f environment.yml
